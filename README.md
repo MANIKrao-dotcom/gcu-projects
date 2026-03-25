@@ -1,3 +1,3 @@
 # gcu-projects
-my first git repository
+my first git repository.
 Author - Manikrao
