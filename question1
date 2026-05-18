@@ -1,0 +1,8 @@
+palindrome = lambda word : word == word[::-1]
+
+word = input("Enter a word  ")
+
+if palindrome(word):
+    print("Palindrome")
+else:
+    print("Not a palindrome")
